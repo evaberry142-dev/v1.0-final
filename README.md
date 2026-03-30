@@ -10,7 +10,7 @@ Step 1 : check that the Ollama application is available and open on your laptop.
 Step 2 : open the notebook and run all the cells. (The run of all the project take a lot of time). Therefore, all the outputs recquired for the LLM fonctionning are already generated and you can find them in the GitHub repisitory. 
 (Note that : All the files that the notebook generates are already available, so that you don't need to run all the notebook).
 
-Step 3 : Go to the chatbpt_rag.py file and open a terminal and launch the command "python chatbot_rag.py". 
+Step 3 : Go to the chatbpt_rag.py file and open a terminal and launch the command "python chatbot_rag.py". Note that the final RDF Graph "knowledge_base_filtered.nt" must be in the same folder.
 
 Step 4 : You can now answer that you want for the LLM.
 

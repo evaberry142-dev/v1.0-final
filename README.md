@@ -5,7 +5,7 @@ Web datamining project Eva BERRY and Charles AYOUB TD DIA1
 
 The full implementation is available in: `notebook/project_final_v7.ipynb`
 
-Step 1 : check that the Ollama application is available and open on your laptop.
+Step 1 : check that the Ollama application is available and open on your laptop (you must have the version "gemma:2b").
 
 Step 2 : open the notebook and run all the cells. (The run of all the project take a lot of time). Therefore, all the outputs recquired for the LLM fonctionning are already generated and you can find them in the GitHub repisitory. 
 (Note that : All the files that the notebook generates are already available, so that you don't need to run all the notebook).

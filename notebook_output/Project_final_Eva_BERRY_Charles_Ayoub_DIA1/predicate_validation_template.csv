@@ -1,0 +1,2 @@
+subject_local,predicate_local,object_local,subject_wikidata,object_wikidata,candidate_property_uri,candidate_property_label,text_similarity,validated_relation,is_selected
+Many,leave,Lebanon,http://www.wikidata.org/entity/Q183,http://www.wikidata.org/entity/Q822,http://www.wikidata.org/entity/P530,diplomatic relation,0.25,,

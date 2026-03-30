@@ -12,7 +12,7 @@ Step 2 : open the notebook and run all the cells. (The run of all the project ta
 
 Step 3 : Go to the chatbpt_rag.py file and open a terminal and launch the command "python chatbot_rag.py". Note that the final RDF Graph "knowledge_base_filtered.nt" must be in the same folder.
 
-Step 4 : You can now answer that you want for the LLM.
+Step 4 : You can now ask whatever you want to the LLM.
 
 ## Content of the notebook 
 (Every part is explained and commented in the notebook)
